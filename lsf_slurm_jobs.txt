@@ -1,0 +1,13 @@
+#lsf jobs notes
+
+#detailed stats of jobs
+
+$bjobs -l <job id>
+
+$bhist -l <job id>
+#checkign reason to pending jobs and adjust accordingly 
+
+bhosts #list all host names and theircapacity
+
+ncpus is referred to ntasks in job descriptions
+what is number of threads???
