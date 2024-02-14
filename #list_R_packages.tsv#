@@ -1,0 +1,15 @@
+Core_CRAN   Bioconductor_core
+tidyverse   DESeq2
+data.table  EnhancedVolcano
+dtplyr  plyranges
+ggfortify   msigdbr
+ggpubr  clusterProfiler
+ggrepel BiocParallel
+janitor GenomicFeatures
+matrixStats AnnotationDbi
+optparse    
+pheatmap    
+pryr    
+GGally  
+viridis 
+yaml    
